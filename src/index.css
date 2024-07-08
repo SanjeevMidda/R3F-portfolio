@@ -1,0 +1,21 @@
+*,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  user-select: none;
+}
+
+.r3f {
+  touch-action: none;
+}
+
+.htmlScreen iframe {
+  width: 1024px;
+  height: 670px;
+  border: none;
+  background-color: white;
+  border-radius: 20px;
+}
